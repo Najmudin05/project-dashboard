@@ -42,6 +42,35 @@ Office Machines and Chairs & Chairmats subcategories show the highest sales, and
 
 ---
 
-# Project 2 : Retail Sales Dashboard
+# Project 2 : Retail Sales Dashboard Analysis
 
 ## Project Overview
+This project involves creating a comprehensive retail sales dashboard to track key metrics like total sales, sales quantity, average age of customers, and product distribution. The dashboard includes demographic segmentation by gender, age distribution, and product category insights to support data-driven decisions in retail management.
+
+## Project Objectives
+- Visualize total sales, quantity, and customer demographics.
+- Analyze sales distribution over time.
+- Segment sales by gender and age to understand purchasing behaviors.
+- Display product category distribution for better inventory planning.
+
+## Dataset
+- Dataset can be accessed [here]()
+
+## Process
+- Preparasi dataset dengan melalkukan cleaning data.
+- Handling missing values, duplicates, and standardizing formats. 
+- Membuat visualisasi menggunakan tableau.
+
+## Dashboard
+
+
+## Insight 
+- Total Sales: The dashboard shows total sales amounting to 456,000 with a total quantity of 2,514 units.
+- Customer Demographics: Average customer age is around 41.39 years, with a fairly balanced distribution of sales across age groups.
+- Product Preferences by Gender: Sales are higher among females compared to males, indicating potential gender-specific marketing strategies.
+- Popular Product Categories: Beauty products make up the largest share at 35.1%, followed by Electronics at 34.2% and Clothing at 30.7%.
+
+## Conclusion
+The retail sales dashboard indicates total sales of 456,000, with most purchases made by female customers aged 30-55. Beauty products are the top-selling category, followed by Electronics, while Clothing lags behind. To boost sales, targeted promotions for female customers, an expanded Beauty line, seasonal campaigns, and prioritized inventory for popular items are recommended. Gathering customer feedback will also help refine product offerings and marketing strategies.
+
+
