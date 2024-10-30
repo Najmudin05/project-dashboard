@@ -21,6 +21,7 @@ This dashboard is designed to monitor the sales and order performance of the com
 - Create visualizations using Tableau.
 
 ## Dashboard
+![image](https://github.com/user-attachments/assets/252be148-ab36-4ef7-93a4-834781c79b23)
 
 ## Insight Results
 - From the "Total Sales per Year" graph, there is a gradual decline in sales from 2009 to 2011, with a slight increase in 2012.
