@@ -62,7 +62,7 @@ This project involves creating a comprehensive retail sales dashboard to track k
 - Membuat visualisasi menggunakan tableau.
 
 ## Dashboard
-
+![image](https://github.com/user-attachments/assets/15c528ab-d361-484c-a657-d301059cb4d5)
 
 ## Insight 
 - Total Sales: The dashboard shows total sales amounting to 456,000 with a total quantity of 2,514 units.
