@@ -57,9 +57,9 @@ This project involves creating a comprehensive retail sales dashboard to track k
 - Dataset can be accessed [here]()
 
 ## Process
-- Preparasi dataset dengan melalkukan cleaning data.
-- Handling missing values, duplicates, and standardizing formats. 
-- Membuat visualisasi menggunakan tableau.
+- Prepare the dataset by performing data cleaning.
+- Handle missing values, duplicates, and standardize formats.
+- Create visualizations using Tableau.
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/15c528ab-d361-484c-a657-d301059cb4d5)
