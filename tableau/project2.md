@@ -4,7 +4,7 @@
 This dashboard is designed to monitor the sales and order performance of the company DQLab from 2009 to 2012. It provides insights on total sales, total orders, average sales, top-selling product categories, and order status.
 
 ## Dataset
-- Dataset can be accessed [here]()
+- Dataset can be accessed [here](https://github.com/Najmudin05/project-dashboard/blob/main/tableau/DQLab%20Sales%20Performance.csv)
 
 ## KPIs
 - What is the total sales per year from 2009 to 2012? Is there an increase or decrease?
@@ -54,7 +54,7 @@ This project involves creating a comprehensive retail sales dashboard to track k
 - Display product category distribution for better inventory planning.
 
 ## Dataset
-- Dataset can be accessed [here]()
+- Dataset can be accessed [here](https://github.com/Najmudin05/project-dashboard/blob/main/tableau/retail_sales_dataset.csv)
 
 ## Process
 - Prepare the dataset by performing data cleaning.
